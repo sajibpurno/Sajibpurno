@@ -2,7 +2,7 @@
 *(Final Year BSc in CSE Student)*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sajibpurno/sajibpurno/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sajibpurno/sajibpurno/main/banner.png" alt="Banner" width="50%" />
 </p>
 
 ---
