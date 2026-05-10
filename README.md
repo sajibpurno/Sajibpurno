@@ -12,7 +12,7 @@
 I am a passionate Frontend Developer now and a final year Computer Science student. I love building digital solutions and exploring new technologies.
 
 - 🔭 Currently working on **SunCart - Premium Digital Asset Marketplace**
-- 🌱 Learning **Next.js** and advanced **Web Security**
+- 🌱 Learning **Node.js** **express.js** and advanced **Web Security**
 - ⚡ Researching **Specific topic**
 
 ---
