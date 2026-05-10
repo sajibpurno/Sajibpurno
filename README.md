@@ -17,10 +17,26 @@ I am a passionate Frontend Developer and a final year Computer Science student. 
 
 ---
 
-## 🛠 Skills
+## 🛠 Tech Stack
 
+### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,express,mongodb,git,vscode,firebase,html,css,mysql,python,c,cpp,figma" />
+  <img src="https://skillicons.dev/icons?i=js,python,c,cpp,html,css" />
+</p>
+
+### ⚛️ Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### 🔧 Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+### 🎨 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
