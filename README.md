@@ -1,7 +1,7 @@
 # Hi there, I'm Shajib Chanda 👋 
 *(Final Year BSc in CSE Student)*
 
-![Banner]([https://kommodo.ai/i/TrDeuSxC4GDZQDGENHZG])) 
+![Banner](https://kommodo.ai/api/v1/image/TrDeuSxC4GDZQDGENHZG) 
 
 ---
 
@@ -14,12 +14,12 @@ I am a passionate Frontend Developer and a final year Computer Science student. 
 
 ### 🛠 Skills
 <p align="left">
-  <img src="[https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,expressjs,mongodb,git,vscode,firebase" />
-</p>](https://kommodo.ai/i/YNnJoNIKYxJwrfvYEJ9Z)
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,express,mongodb,git,vscode,firebase" />
+</p>
 
 ### 🔗 Social Links
 <p align="left">
-<a href="linkedin.com/in/sajib-purno-a0ba40320"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sajib-purno-a0ba40320" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ### 📊 GitHub Stats
