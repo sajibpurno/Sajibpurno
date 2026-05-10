@@ -44,11 +44,12 @@ I am a passionate Frontend Developer and a final year Computer Science student. 
 ## 🔗 Social Links
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sajib-purno-a0ba40320">
+  <a href="https://www.linkedin.com/in/sajib-purno-a0ba40320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/sajib_.purno/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=purple"/>
+
+  <a href="https://www.instagram.com/sajib_.purno/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
