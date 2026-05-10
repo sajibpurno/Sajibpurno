@@ -1,7 +1,7 @@
 # Hi there, I'm Shajib Chanda 👋 
 *(Final Year BSc in CSE Student)*
 
-![Banner]([https://i.ibb.co/your-image/banner.png](https://kommodo.ai/i/YNnJoNIKYxJwrfvYEJ9Z)) 
+![Banner]([https://kommodo.ai/i/TrDeuSxC4GDZQDGENHZG])) 
 
 ---
 
