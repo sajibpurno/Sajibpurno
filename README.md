@@ -20,7 +20,7 @@ I am a passionate Frontend Developer and a final year Computer Science student. 
 ## 🛠 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,express,mongodb,git,vscode,firebase" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,express,mongodb,git,vscode,firebase,html,css,mysql,python,c,cpp,figma" />
 </p>
 
 ---
